@@ -67,3 +67,35 @@
 .head p {
     font-size: 18px;
 }
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+}
+
+.section2 .div1 strong{
+    font: bolder;
+    font-size: 36px;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.div2 .container {
+    width: 200px;
+    text-align: center;
+}
+
+.div2 .container .box{
+    width: auto;
+    height: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
