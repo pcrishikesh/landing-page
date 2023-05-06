@@ -127,3 +127,44 @@
     align-items: center;
     font-size: 36px;
 }
+
+.section4 {
+    display: flex;
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.section4 .container {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
+.section4 .container .container2 {
+    display: flex;
+    align-items: center;
+}
+
+.section4 .container .container1 {
+    color: white;
+}
+
+.section4 .container .container1 strong{
+    color: white;
+    font-size: 20px;
+}
+
+.section4 .container .container2 button{
+    padding: 6px;
+    width: 125px;
+    background-color: transparent;
+    border: 2.5px solid white;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+}
