@@ -100,3 +100,30 @@
     border-radius: 10px;
     margin-bottom: 10px;
 }
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.section3 .container {
+    width: 800px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.section3 span{
+    text-align: end;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section3 em {
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+    font-size: 36px;
+}
