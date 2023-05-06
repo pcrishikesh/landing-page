@@ -168,3 +168,11 @@
     font-size: 15px;
     border-radius: 10px;
 }
+
+.section5 {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: #1F2937;
+    color: white;
+}
