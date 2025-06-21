@@ -5,7 +5,7 @@
 
 }
 
-.mainsec {
+.mainfir{
     background-color: #1F2937;
     width: 100%;
 
@@ -52,4 +52,8 @@
     border-color: transparent;
     color: white;
     font-weight: bold;
+}
+
+.mainsec .sec2 div img {
+    width: 300px;
 }
